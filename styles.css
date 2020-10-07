@@ -1,11 +1,14 @@
-<<<<<<< HEAD
 body {
   font-family: "Sansita Swashed", cursive;
   font-size: larger;
+  background-color: burlywood;
 }
-=======
-body {
-  font-family: "Sansita Swashed", cursive;
-  font-size: larger;
+
+.image-resize {
+  width: 200px;
+  height: 150px;
 }
->>>>>>> f66c2c109ec76fad7ab16451710e0ce6d5786c2f
+
+.card {
+  color: brown;
+}
